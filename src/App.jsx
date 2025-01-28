@@ -10,7 +10,7 @@ import IncomeForm from './components/IncomeForm';
 const App = () => {
   return (
     <>
-    <h1 className='center'>Enpense Tracker App</h1>
+    <h1 className='center'>Expense Tracker App</h1>
     <ExpenseProvider>
       <div>
         {/* <Header /> */}
